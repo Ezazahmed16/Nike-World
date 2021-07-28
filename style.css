@@ -1,0 +1,29 @@
+
+/* basic CSS */
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: #363958;
+    font-size: 26px;
+}
+h2{
+    color: #fa804c;
+}
+p{
+    color: #3E3E3E;
+}
+
+.shoes_bg{
+    margin: 3px 5px;
+    background-color: #F1F1F1;
+    height: 311px;
+    border-radius: 10px;
+}
+.shoes_bg_casual{
+    margin: 3px 5px;
+    background-color: #fff;
+    height: 311px;
+    border-radius: 10px;
+}
