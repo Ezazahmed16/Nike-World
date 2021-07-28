@@ -1,8 +1,14 @@
+/* custom font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
 
 /* basic CSS */
 body{
     margin: 0;
     padding: 0;
+    background: aquamarine;
+    font-family: 'Poppins', sans-serif;
 }
 h1{
     color: #363958;
@@ -14,7 +20,6 @@ h2{
 p{
     color: #3E3E3E;
 }
-
 .shoes_bg{
     margin: 3px 5px;
     background-color: #F1F1F1;
